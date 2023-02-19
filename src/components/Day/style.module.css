@@ -1,0 +1,26 @@
+.tasks_block{
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+}
+
+.day_card{
+    display: flex;
+    border-radius: 10px;
+    background-color: #ECF0F1;
+    position: relative;
+}
+
+
+
+
+.label{
+    background-color: #34495E;
+    border-radius: 10px 0 0 10px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+}
